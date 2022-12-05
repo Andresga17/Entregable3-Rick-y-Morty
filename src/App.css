@@ -37,3 +37,10 @@
     background-color: #b6f293;
     color: #003d18;
 }
+
+.main-form__button:hover{
+    background-color: rgb(121, 163, 166);
+    transition: 0.3s;
+    cursor: pointer;
+    text-transform: uppercase;
+}
