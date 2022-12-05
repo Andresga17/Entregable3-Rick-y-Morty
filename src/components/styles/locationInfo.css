@@ -1,0 +1,26 @@
+.location {
+    display: grid;
+    justify-content: center;
+    gap: 10px;
+}
+
+.location__list {
+    padding-bottom: 40px;
+}
+
+.location__title{
+    padding-bottom: 20px;
+    font-family: 'Permanent Marker', cursive;
+    color: #0d893f;
+}
+
+.location__list-item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(237, 235, 235);
+}
+
+.location__list-info{
+    font-weight: bold;
+    color: rgb(90, 158, 135);
+}

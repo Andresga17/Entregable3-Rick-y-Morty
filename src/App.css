@@ -1,0 +1,39 @@
+.residents-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+    max-width: 1480px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+.main-title {
+    display: flex;
+    justify-content: center;
+    padding: 0.5em;
+    font-family: 'Akronim', cursive;
+    font-size: 5rem;
+    color: #b6f293;    
+}
+
+.main-form {
+    display: flex;
+    justify-content: center;
+}
+
+.main-form__input {
+    margin: 1em;
+    border-radius: 5px;
+    border: 1px solid#39c;
+}
+
+.main-form__button {
+    margin: 1em;
+    border-radius: 5px;
+    font-family: 'Permanent Marker', cursive;
+    background-color: #b6f293;
+    color: #003d18;
+}
